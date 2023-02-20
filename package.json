@@ -1,0 +1,21 @@
+{
+  "name": "desafio-manejo-de-archivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/productManager.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximoArielAranibe/Desafio-Manejo-De-Archivos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximoArielAranibe/Desafio-Manejo-De-Archivos/issues"
+  },
+  "homepage": "https://github.com/MaximoArielAranibe/Desafio-Manejo-De-Archivos#readme"
+}
